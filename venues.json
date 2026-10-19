@@ -1,0 +1,98 @@
+[
+  {
+    "name": "The Bay Tree",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Main dining restaurant"
+  },
+  {
+    "name": "Saffron",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Main dining restaurant"
+  },
+  {
+    "name": "Cinnamon",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Main dining restaurant"
+  },
+  {
+    "name": "Waterside",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Buffet dining"
+  },
+  {
+    "name": "The Beach House",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Speciality dining; check current availability"
+  },
+  {
+    "name": "Sindhu",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Indian-inspired speciality dining; check current availability"
+  },
+  {
+    "name": "The Glass House",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Wine and dining; check current availability"
+  },
+  {
+    "name": "The Epicurean",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Speciality dining; check current availability"
+  },
+  {
+    "name": "The Tamarind Club",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Lounge and live entertainment"
+  },
+  {
+    "name": "Havana",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Entertainment and dancing"
+  },
+  {
+    "name": "Arena Theatre",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Theatre and stage shows"
+  },
+  {
+    "name": "Metropolis",
+    "category": "Bar",
+    "deck": "Check current deck plan",
+    "description": "Panoramic lounge"
+  },
+  {
+    "name": "The Exchange",
+    "category": "Bar",
+    "deck": "Check current deck plan",
+    "description": "Pub-style bar"
+  },
+  {
+    "name": "Red Bar",
+    "category": "Bar",
+    "deck": "Check current deck plan",
+    "description": "Cocktail bar"
+  },
+  {
+    "name": "Tazzine",
+    "category": "Dining",
+    "deck": "Check current deck plan",
+    "description": "Coffee and refreshments"
+  },
+  {
+    "name": "Fortunes Casino",
+    "category": "Entertainment",
+    "deck": "Check current deck plan",
+    "description": "Casino; check current operating hours"
+  }
+]
