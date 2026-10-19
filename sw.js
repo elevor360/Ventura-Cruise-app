@@ -1,9 +1,9 @@
 'use strict';
-const CACHE_NAME = 'elevor360d-ventura-static-v5-4';
+const CACHE_NAME = 'elevor360d-ventura-static-v5-5';
 const OFFLINE_FILES = [
-  './', './index.html', './style.css?v=ventura54',
-  './app.js?v=ventura54', './manifest.webmanifest', './icon.svg',
-  './venues.json', './information.json?v=ventura54', './advert-settings.json', './share-qr.png'
+  './', './index.html', './style.css?v=ventura55',
+  './app.js?v=ventura55', './manifest.webmanifest', './icon.svg',
+  './venues.json', './information.json?v=ventura55', './advert-settings.json', './share-qr.png'
 ];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(OFFLINE_FILES)).then(() => self.skipWaiting()));
