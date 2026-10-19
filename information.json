@@ -4,39 +4,55 @@
   "sections": [
     {
       "heading": "Welcome aboard Ventura",
-      "body": "Independent Elevor360D companion for P&O Cruises Ventura. Use this guide for planning, but always follow official ship announcements, signage and crew advice."
+      "body": "Independent Elevor360D passenger companion. Venue details are a planning reference, not live ship information. Always follow onboard signage, announcements and crew instructions."
     },
     {
-      "heading": "Finding your way around",
-      "body": "Ventura has 14 guest decks. Deck names include P (5), F (6), Prom (7), E (8), D (9), C (10), B (11), A (12), Riviera (14), Lido (15), Sun (16), Sports (17), Sky (18) and Ocean (19). There is also a G Deck shown on the official plan. Check individual venue locations using the official P&O Cruises Ventura deck plan: https://www.pocruises.com/content/dam/po/inventory-assets/ships/VE/Ventura-Deck-Plan-W26-27.pdf"
+      "heading": "Decks and finding your way",
+      "body": "Ventura deck names: P (5), F (6), Prom (7), E (8), D (9), C (10), B (11), A (12), Riviera (14), Lido (15), Sun (16), Sports (17), Sky (18) and Ocean (19). G Deck also appears on the official plan. Use your saved cabin and deck notes to remember lift banks and routes. Official P&O Ventura 2026–27 deck plan (internet required): https://www.pocruises.com/content/dam/po/inventory-assets/ships/VE/Ventura-Deck-Plan-W26-27.pdf"
     },
     {
-      "heading": "Dining on Ventura",
-      "body": "Main dining: Bay Tree, Saffron and Cinnamon. Casual options include Waterside buffet and poolside pizzeria and grill. Speciality options include Epicurean, Sindhu, The Beach House and The Glass House. Dining formats, opening hours, availability and supplements can change: check onboard."
+      "heading": "Dining: included options",
+      "body": "P&O lists three main dining venues (Bay Tree, Saffron and Cinnamon), Waterside buffet and poolside pizzeria and grill. Main dining arrangements may be Club or Freedom Dining, depending on booking. Check your cruise details and onboard information for the arrangement assigned to you."
     },
     {
-      "heading": "Bars and evening entertainment",
-      "body": "Explore the Arena Theatre, Havana, The Tamarind Club, The Exchange, Red Bar and Metropolis. Consult the daily programme for performance times and reservations."
+      "heading": "Dining: speciality options",
+      "body": "P&O lists Epicurean (modern British dining), Sindhu (Indian-British fusion), The Beach House (Latin American and Caribbean-inspired dishes) and The Glass House (wine and tapas-style dishes). Supplements or reservations may apply. Confirm menus, prices and availability onboard."
     },
     {
-      "heading": "Pools, wellness and family activities",
-      "body": "Ventura has four pools and facilities including the Oasis Spa, The Retreat, Sports Arena, video game arcade and children’s activities. Some facilities require bookings, fees or age restrictions."
+      "heading": "Bars and coffee",
+      "body": "Options listed by P&O include Red Bar for cocktails and champagne, Metropolis, The Exchange pub-style bar, Tazzine for coffee, and bars in entertainment venues. Drinks packages and individual prices depend on your booking and current terms."
     },
     {
-      "heading": "Embarkation and sea days",
-      "body": "Before boarding, check your embarkation time, travel documents and any official messages. On sea days, use the Daily Planner to note shows, dining reservations and activities. Follow the crew’s safety and muster instructions."
+      "heading": "Evening entertainment",
+      "body": "The Arena Theatre hosts stage shows; Havana and The Tamarind Club host live music, comedy and other entertainment. The Exchange may also feature entertainment. Shows and times vary by cruise: check Horizon or the onboard programme."
     },
     {
-      "heading": "Going ashore",
-      "body": "Check the ship’s local-time clock, all-aboard time and official port notices before leaving. Take required travel documents and allow extra time to return; itineraries can change."
+      "heading": "Pools, wellness and families",
+      "body": "P&O describes four swimming pools, sports activities, a video game arcade, spa facilities and family activities on Ventura. Check current availability, safety guidance, age limits and any charges."
+    },
+    {
+      "heading": "Embarkation checklist",
+      "body": "Check boarding time and terminal instructions in your official cruise documents. Keep required travel documents and essential medication in hand luggage. Follow muster and safety instructions from crew."
+    },
+    {
+      "heading": "Sea-day ideas",
+      "body": "Review the daily Horizon programme, add preferred shows and reservations to My Cruise, and use My Day for a quick personal overview. The app does not automatically import the ship schedule."
+    },
+    {
+      "heading": "Going ashore safely",
+      "body": "Check the official all-aboard time and ship local time before leaving. Bring required documents and allow time to return. Ports and timings can change; crew announcements take priority."
+    },
+    {
+      "heading": "Onboard spending and drinks",
+      "body": "The Spending and Drinks sections are personal trackers only, not linked to your onboard account. Always verify your onboard statement and current drinks package terms with P&O."
+    },
+    {
+      "heading": "Official sources and independence",
+      "body": "P&O Ventura overview: https://www.pocruises.com/cruise-ships/ventura/overview ; dining: https://www.pocruises.com/cruise-ships/ventura/dining ; entertainment: https://www.pocruises.com/cruise-ships/ventura/entertainment ; drinks: https://www.pocruises.com/cruise-ships/ventura/drinks . This independent guide is not endorsed by P&O Cruises."
     },
     {
       "heading": "Share this free guide",
-      "body": "Use Share App in the menu to show the Ventura QR code, linking to https://elevor360.github.io/Ventura-Cruise-app/."
-    },
-    {
-      "heading": "Information sources",
-      "body": "P&O Cruises Ventura overview: https://www.pocruises.com/cruise-ships/ventura/overview ; dining: https://www.pocruises.com/cruise-ships/ventura/dining ; drinks: https://www.pocruises.com/cruise-ships/ventura/drinks . Venue listings may change. This app is independent and not endorsed by P&O Cruises."
+      "body": "Use Share App to show the Ventura QR code for https://elevor360.github.io/Ventura-Cruise-app/ . The QR image is included offline."
     }
   ]
 }

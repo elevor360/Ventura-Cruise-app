@@ -21,67 +21,67 @@
     "name": "Waterside",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Casual buffet restaurant for meals and snacks."
+    "description": "Casual buffet dining with a range of meal options. Check the daily programme for opening times."
   },
   {
     "name": "The Beach House",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Speciality restaurant featuring flavours inspired by the Americas and Caribbean; supplement may apply."
+    "description": "Speciality dining inspired by Latin America and the Caribbean. An additional charge may apply; check booking arrangements onboard."
   },
   {
     "name": "Sindhu",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Indian-British fusion speciality dining; supplement may apply."
+    "description": "Indian-British fusion speciality dining. An additional charge may apply; check availability and booking arrangements."
   },
   {
     "name": "The Glass House",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Wine-focused dining and small plates; additional charges may apply."
+    "description": "Wine-led dining with tapas-style dishes and wine pairings. Food and drinks may incur additional charges."
   },
   {
     "name": "The Epicurean",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Modern British speciality dining; supplement may apply."
+    "description": "Modern British fine dining, with speciality dining and selected afternoon-tea experiences; reservations and supplements may apply."
   },
   {
     "name": "The Tamarind Club",
     "category": "Entertainment",
     "deck": "Check current deck plan",
-    "description": "Live music, comedy and other evening entertainment."
+    "description": "Live music and comedy venue; the daily entertainment programme varies by sailing."
   },
   {
     "name": "Havana",
     "category": "Entertainment",
     "deck": "Check current deck plan",
-    "description": "Show lounge with music, dancing and evening entertainment."
+    "description": "Cuban-inspired show lounge for live music and dancing; check the onboard programme."
   },
   {
     "name": "Arena Theatre",
     "category": "Entertainment",
     "deck": "Check current deck plan",
-    "description": "Two-tier theatre hosting live stage productions."
+    "description": "Two-tier theatre hosting productions, guest performers and other scheduled shows. Check the daily programme."
   },
   {
     "name": "Metropolis",
     "category": "Bar",
     "deck": "Check current deck plan",
-    "description": "Lounge bar with panoramic views."
+    "description": "Lounge bar themed around world destinations; check current opening hours."
   },
   {
     "name": "The Exchange",
     "category": "Bar",
     "deck": "Check current deck plan",
-    "description": "Traditional pub-style bar with drinks and entertainment."
+    "description": "Traditional pub-style venue with drinks and occasional entertainment."
   },
   {
     "name": "Red Bar",
     "category": "Bar",
     "deck": "Check current deck plan",
-    "description": "Cocktails and champagne in a stylish bar."
+    "description": "Cocktail and champagne bar; drinks are usually chargeable."
   },
   {
     "name": "Tazzine",
@@ -141,7 +141,7 @@
     "name": "Sports Arena",
     "category": "Activities",
     "deck": "Check official deck plan",
-    "description": "Sports court for organised activities; check daily programme."
+    "description": "Sports area for activities that may include football, basketball, tennis or archery. Sessions vary by sailing."
   },
   {
     "name": "The Reef",
