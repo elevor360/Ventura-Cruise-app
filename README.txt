@@ -1,10 +1,11 @@
-ELEVOR360D VENTURA CRUISE COMPANION — REBUILT V1 TEST PACKAGE
+Elevor360D Ventura Cruise Companion V2
 
-Rebuilt from the original Iona V22 source rather than the blocked Ventura archive.
-This ZIP has NOT been certified malware-free or scanned by Microsoft Defender.
-If Windows flags it, do not bypass the warning; share the new detection details.
+Upload the CONTENTS of this ZIP to the root of your existing Ventura-Cruise-app GitHub repository. Do not upload the ZIP itself.
 
-Upload extracted files to a NEW Ventura GitHub Pages repository only after Windows accepts the archive.
-Ventura venues are provisional; verify current details onboard.
-The QR image from Iona is omitted; share links use the live site URL.
-The offline worker caches a minimal local app shell at installation.
+New in V2: Ventura-specific share-qr.png linking to https://elevor360.github.io/Ventura-Cruise-app/; offline cache includes QR; Ventura V2 cache refresh; improved information page; corrected offline readiness label.
+
+Venue deck locations remain UNVERIFIED. Do not present them as official.
+
+No user records are intentionally reset; browser storage keys are unchanged.
+
+Scan extracted files with Windows Defender before publishing.

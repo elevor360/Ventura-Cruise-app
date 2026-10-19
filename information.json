@@ -5,6 +5,18 @@
     {
       "heading": "Welcome aboard Ventura",
       "body": "Welcome to the independent Elevor360D Ventura Cruise Companion. This page can be updated using your private manager app. Check official P&O Cruises information for current facilities, deck locations and schedules."
+    },
+    {
+      "heading": "Using the Ventura deck guide",
+      "body": "The venue directory lists well-known Ventura venues. Deck numbers are deliberately marked for verification until checked against the current official P&O Cruises Ventura deck plan. You can add your own deck notes inside the app."
+    },
+    {
+      "heading": "Before sailing",
+      "body": "Check your cruise booking and official P&O Cruises communications for embarkation times, itinerary changes, onboard bookings, dining availability and current ship facilities."
+    },
+    {
+      "heading": "Share this free guide",
+      "body": "Open Share App in the menu to show the Ventura-specific QR code. It links to https://elevor360.github.io/Ventura-Cruise-app/."
     }
   ]
 }
