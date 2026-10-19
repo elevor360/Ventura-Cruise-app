@@ -53,6 +53,18 @@
     {
       "heading": "Share this free guide",
       "body": "Use Share App to show the Ventura QR code for https://elevor360.github.io/Ventura-Cruise-app/ . The QR image is included offline."
+    },
+    {
+      "heading": "Official ship references and current deck plan",
+      "body": "For the most reliable venue and cabin locations, consult P&O Cruises’ official Ventura deck plan: https://www.pocruises.com/content/dam/po/inventory-assets/ships/VE/Ventura-Deck-Plan-W26-27.pdf\nP&O Ventura ship overview: https://www.pocruises.com/cruise-ships/ventura/overview\nThese links require an internet connection. Deck layouts, venue names and availability may change; follow onboard signage and crew advice."
+    },
+    {
+      "heading": "Before leaving home: final checklist",
+      "body": "Check passport and any destination entry requirements, travel insurance, travel documents and terminal arrival instructions. Add important activities to My Cruise and make a backup of your personal records. The app saves locally on this device, not to a cruise-line account."
+    },
+    {
+      "heading": "Using your guide offline",
+      "body": "Open the app while online before sailing to allow the browser to save app files. Saved personal records generally remain available offline on the same device. Public information updates and official external websites require internet access. Use Settings to download a JSON backup before changing devices or clearing browser storage."
     }
   ]
 }

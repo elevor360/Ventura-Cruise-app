@@ -1,9 +1,17 @@
-Elevor360D Ventura Cruise Companion V4
+Elevor360D Ventura Cruise Companion V5 — Final Release Candidate
 
-Upload all extracted files to the root of Ventura-Cruise-app GitHub repository. Replace existing files and commit.
+Upload the CONTENTS of this ZIP to the root of your existing Ventura-Cruise-app GitHub repository. Do not upload the ZIP itself.
 
-V4: revised Ventura dining, entertainment and passenger-information text, based on official P&O Ventura pages. Added guidance on Club/Freedom Dining, speciality supplements, ship time and Horizon schedules. Retains the same app.js, layout, QR code, saved-data keys and offline functionality as tested V3. Service worker cache updated to V4.
+GitHub Pages: https://elevor360.github.io/Ventura-Cruise-app/
 
-Venue deck numbers remain unverified: use the linked official Ventura deck plan. Online links require internet. This is an independent, unofficial guide.
+Changes from V4:
+- Added official Ventura ship/deck-plan references and passenger/offline guidance to information.json.
+- Updated app information label to V5 (no changes to saved-data key or user records).
+- Refreshed cache and asset version strings to V5.
+- Kept the same menu, planner, packing, spending, print-to-PDF, QR sharing, advertising support and information update functionality.
 
-Before publishing: scan the extracted folder with Windows Defender and test the app, offline access, saved data, PDF printing and QR sharing.
+SECURITY: Scan this extracted folder with Windows Defender before publishing. A clean static check does not guarantee malware-free software.
+
+TESTING: Verify planner and packing data survive the update, offline operation after first online visit, PDF printing, QR sharing, and owner information/advert updates.
+
+Independent unofficial guide, not affiliated with P&O Cruises.
