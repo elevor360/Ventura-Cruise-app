@@ -17,3 +17,5 @@ TESTING: Verify planner and packing data survive the update, offline operation a
 Independent unofficial guide, not affiliated with P&O Cruises.
 
 V5.1: Replaced broken/misleading P&O links in information.json with the single official Ventura overview URL. Refreshed offline cache. All other app functionality unchanged.
+
+V5.2: Correct official Ventura deck plan PDF link; both official URLs are clickable in passenger information.
