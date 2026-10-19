@@ -3,96 +3,162 @@
     "name": "The Bay Tree",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Main dining restaurant"
+    "description": "Main restaurant offering traditional Club Dining."
   },
   {
     "name": "Saffron",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Main dining restaurant"
+    "description": "Main restaurant with flexible Freedom Dining."
   },
   {
     "name": "Cinnamon",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Main dining restaurant"
+    "description": "Main restaurant with flexible Freedom Dining."
   },
   {
     "name": "Waterside",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Buffet dining"
+    "description": "Casual buffet restaurant for meals and snacks."
   },
   {
     "name": "The Beach House",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Speciality dining; check current availability"
+    "description": "Speciality restaurant featuring flavours inspired by the Americas and Caribbean; supplement may apply."
   },
   {
     "name": "Sindhu",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Indian-inspired speciality dining; check current availability"
+    "description": "Indian-British fusion speciality dining; supplement may apply."
   },
   {
     "name": "The Glass House",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Wine and dining; check current availability"
+    "description": "Wine-focused dining and small plates; additional charges may apply."
   },
   {
     "name": "The Epicurean",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Speciality dining; check current availability"
+    "description": "Modern British speciality dining; supplement may apply."
   },
   {
     "name": "The Tamarind Club",
     "category": "Entertainment",
     "deck": "Check current deck plan",
-    "description": "Lounge and live entertainment"
+    "description": "Live music, comedy and other evening entertainment."
   },
   {
     "name": "Havana",
     "category": "Entertainment",
     "deck": "Check current deck plan",
-    "description": "Entertainment and dancing"
+    "description": "Show lounge with music, dancing and evening entertainment."
   },
   {
     "name": "Arena Theatre",
     "category": "Entertainment",
     "deck": "Check current deck plan",
-    "description": "Theatre and stage shows"
+    "description": "Two-tier theatre hosting live stage productions."
   },
   {
     "name": "Metropolis",
     "category": "Bar",
     "deck": "Check current deck plan",
-    "description": "Panoramic lounge"
+    "description": "Lounge bar with panoramic views."
   },
   {
     "name": "The Exchange",
     "category": "Bar",
     "deck": "Check current deck plan",
-    "description": "Pub-style bar"
+    "description": "Traditional pub-style bar with drinks and entertainment."
   },
   {
     "name": "Red Bar",
     "category": "Bar",
     "deck": "Check current deck plan",
-    "description": "Cocktail bar"
+    "description": "Cocktails and champagne in a stylish bar."
   },
   {
     "name": "Tazzine",
     "category": "Dining",
     "deck": "Check current deck plan",
-    "description": "Coffee and refreshments"
+    "description": "Coffee, hot drinks and refreshments."
   },
   {
     "name": "Fortunes Casino",
     "category": "Entertainment",
     "deck": "Check current deck plan",
-    "description": "Casino; check current operating hours"
+    "description": "Onboard casino; check opening hours and age restrictions."
+  },
+  {
+    "name": "Poolside Pizzeria & Grill",
+    "category": "Dining",
+    "deck": "Check official deck plan",
+    "description": "Pizza and casual poolside food."
+  },
+  {
+    "name": "Laguna Pool",
+    "category": "Pool",
+    "deck": "Check official deck plan",
+    "description": "Outdoor swimming pool; follow onboard safety guidance."
+  },
+  {
+    "name": "Beachcomber Pool",
+    "category": "Pool",
+    "deck": "Check official deck plan",
+    "description": "Swimming pool area for relaxation."
+  },
+  {
+    "name": "Terrace Pool",
+    "category": "Pool",
+    "deck": "Check official deck plan",
+    "description": "Outdoor pool area."
+  },
+  {
+    "name": "Oasis Pool",
+    "category": "Pool",
+    "deck": "Check official deck plan",
+    "description": "Swimming pool area."
+  },
+  {
+    "name": "Oasis Spa",
+    "category": "Wellness",
+    "deck": "Check official deck plan",
+    "description": "Spa treatments and wellness facilities; charges may apply."
+  },
+  {
+    "name": "The Retreat",
+    "category": "Wellness",
+    "deck": "Check official deck plan",
+    "description": "Adults-only relaxation area; availability and charges may apply."
+  },
+  {
+    "name": "Sports Arena",
+    "category": "Activities",
+    "deck": "Check official deck plan",
+    "description": "Sports court for organised activities; check daily programme."
+  },
+  {
+    "name": "The Reef",
+    "category": "Family",
+    "deck": "Check official deck plan",
+    "description": "Children’s club with age-specific activities; check registration and hours."
+  },
+  {
+    "name": "Video Game Arcade",
+    "category": "Family",
+    "deck": "Check official deck plan",
+    "description": "Arcade entertainment; charges may apply."
+  },
+  {
+    "name": "Three-deck Atrium",
+    "category": "Facilities",
+    "deck": "Check official deck plan",
+    "description": "Central gathering area and access point for ship facilities."
   }
 ]
