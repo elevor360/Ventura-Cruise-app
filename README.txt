@@ -15,3 +15,5 @@ SECURITY: Scan this extracted folder with Windows Defender before publishing. A 
 TESTING: Verify planner and packing data survive the update, offline operation after first online visit, PDF printing, QR sharing, and owner information/advert updates.
 
 Independent unofficial guide, not affiliated with P&O Cruises.
+
+V5.1: Replaced broken/misleading P&O links in information.json with the single official Ventura overview URL. Refreshed offline cache. All other app functionality unchanged.
